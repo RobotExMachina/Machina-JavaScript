@@ -88,4 +88,4 @@ class Robot {
     }
 }
 
-export default Robot;
+module.exports = { Robot };
